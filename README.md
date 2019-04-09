@@ -7,7 +7,11 @@ References for training.
 3. "Elegant Scipy", 
 3. many sites....
 
-for Mac
-purpose : scipy
+OS : Mac
+purpose
+1. import excel and modification. export excel or other format
+2. device control to replace labview
+
+
 
  
